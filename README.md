@@ -4,11 +4,11 @@
 
 # Arvinder Mundra
 
-**Software Engineer · MS Data Science @ Texas A&M University**
+**Software Engineer & Data Scientist**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://arvindermundraa.github.io/ArvinderMundra/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-react-theta-gules.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvinder-mundraa)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://arvindermundraa.github.io/ArvinderMundra/Arvinder-Mundra-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1IW7lqj1Q-AEanlkmxJ9QQCoXE1Kk49Zo/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvinder.mundra@tamu.edu)
 
 </div>
@@ -17,14 +17,13 @@
 
 ### About Me
 
-I'm a **software engineer turned ML researcher** — 2+ years building high-throughput Java backends at **Dun & Bradstreet** (10M+ business records, 35% MTTR reduction), now pursuing an MS in Data Science at **Texas A&M** (4.0 GPA) with a focus on deep learning and intelligent systems.
-
-I care about building things that actually work: production-grade code, reproducible ML pipelines, and systems that scale.
+I architect scalable backends and data-driven systems using Java, Spring Boot, Python, and GCP — turning complex engineering problems into measurable business impact.
 
 - **MS Data Science** @ Texas A&M University — GPA 4.0 (2025–2027)
 - **Graduate Teaching Assistant** — STAT 650 & STAT 302
-- Prev: **Software Engineer @ Dun & Bradstreet** — Java · Spring Boot · GCP
-- **Open to:** Summer 2026 Internships · Fall 2026 Co-ops (SWE / Full-Stack / Data Science)
+- Prev: **Software Engineer @ Dun & Bradstreet** — Java · Spring Boot · GCP · Kafka
+- Prev: **BI Intern @ Call Health** — Python · MedSpaCy · Power BI
+- **Open to:** Summer 2026 Internships · Fall 2026 Co-ops (SWE / Data Engineering / Data Science)
 
 ---
 
@@ -35,29 +34,40 @@ I care about building things that actually work: production-grade code, reproduc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 **ML / Data Science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Backend & Full-Stack**
+**Backend & Cloud**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ---
 
@@ -69,7 +79,7 @@ I care about building things that actually work: production-grade code, reproduc
 
 **[Yelp Sentiment Classifier](https://github.com/arvindermundra1208/yelp-sentiment-analysis)**
 
-5-class star rating prediction on Yelp reviews. Benchmarked BiLSTM vs CNN-BiLSTM with Optuna hyperparameter tuning, SpaCy tokenization, and a live HTML/CSS inference interface. Evaluated with F1, precision, recall, and confusion matrices. *(ECEN 758 — Data Mining, TAMU)*
+BiLSTM vs CNN-BiLSTM 5-class star rating predictor on Yelp reviews. Optuna hyperparameter tuning, SpaCy tokenization, and a live HTML/CSS inference interface. *(ECEN 758, TAMU)*
 
 `PyTorch` `SpaCy` `Optuna` `HuggingFace`
 
@@ -78,7 +88,7 @@ I care about building things that actually work: production-grade code, reproduc
 
 **[Customer Segmentation Engine](https://github.com/arvindermundra1208/customer-segmentation)**
 
-Unsupervised RFM pipeline comparing K-Means, DBSCAN, and Hierarchical clustering with PCA reduction. Evaluated via Silhouette Score, Davies-Bouldin, and Calinski-Harabasz indices. 16+ visualizations with supervised validation confirming segment separability.
+RFM pipeline comparing K-Means, DBSCAN, and Hierarchical clustering with PCA. Evaluated via Silhouette, Davies-Bouldin, and Calinski-Harabasz indices. 16+ diagnostic visualizations.
 
 `Scikit-Learn` `Pandas` `SciPy` `Matplotlib`
 
@@ -89,18 +99,38 @@ Unsupervised RFM pipeline comparing K-Means, DBSCAN, and Hierarchical clustering
 
 **[LSTM Stock Price Predictor](https://github.com/arvindermundra1208/LSTM-Based-Stock-Price-Prediction)**
 
-Baseline vs. 5-layer stacked LSTM forecasting AAPL daily close prices. Stacked architecture cuts MAE by ~25% over the baseline.
+Single-layer vs 5-layer stacked LSTM for AAPL daily close forecasting. Stacked architecture cuts MAE ~25% ($24.45 → $18.44) over baseline.
 
 `PyTorch` `yfinance` `Pandas` `Matplotlib`
 
 </td>
 <td width="50%" valign="top">
 
-**[Secure Banking Platform](https://arvindermundraa.github.io/ArvinderMundra/)**
+**[Time-Series Big Data Pipeline](https://github.com/arvindermundra1208)**
 
-Multi-tier financial app with Spring Security RBAC, encrypted sessions, and a high-concurrency PostgreSQL backend designed for production-level load.
+PySpark pipeline ingesting 10+ years of raw equity price data with cleaning, validation, and feature engineering for analytics-ready datasets.
+
+`PySpark` `Apache Spark` `Pandas` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Secure Banking Platform](https://github.com/arvindermundra1208)**
+
+Multi-tier app with Angular frontend, Spring Boot backend, Spring Security RBAC, and encrypted transaction handling on a high-concurrency PostgreSQL backend.
 
 `Angular` `Spring Boot` `Java` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+**[Enterprise Inventory & Backend System](https://github.com/arvindermundra1208)**
+
+Oracle SQL partitioning and PL/SQL automation reducing transaction latency by 80%. ETL pipelines with end-to-end data quality validation.
+
+`Oracle SQL` `PL/SQL` `ETL` `Partitioning`
 
 </td>
 </tr>
@@ -123,12 +153,16 @@ Multi-tier financial app with Spring Security RBAC, encrypted sessions, and a hi
 ### Experience
 
 ```
-Software Engineer     Dun & Bradstreet          Java · Spring Boot · GCP       2023 – 2025
-                      ↳ 35% MTTR reduction · 20% infra cost cut · 10M+ records served
-
-Graduate TA           Texas A&M University      STAT 650 · STAT 302             2026 – Present
-MS Data Science       Texas A&M University      GPA: 4.0                        2025 – 2027
-BTech Electronics     SRM Institute             GPA: 3.7                        2019 – 2023
+Graduate TA           Texas A&M University      STAT 650 · STAT 302 · R · Python        Jan 2026 – Present
+Software Engineer     Dun & Bradstreet          Java · Spring Boot · Kafka · GCP         Aug 2023 – Jul 2025
+                      ↳ 40% MySQL latency cut · 45% report latency cut · 30% MTTR reduction
+                      ↳ 50,000+ daily requests · GCP auth migration · Docker/K8s CI/CD
+BI Intern             Call Health Services       Python · MedSpaCy · Power BI · SQL       Mar 2023 – Apr 2023
+                      ↳ 85% reduction in manual data staging time
+Executive Lead        My Equation               Python · SQL · Distributed Systems        Jul 2021 – Mar 2022
+                      ↳ 99% data integrity · Mentored 1,200+ participants
+MS Data Science       Texas A&M University      GPA: 4.0                                 2025 – 2027
+BTech Electronics     SRM Institute             GPA: 3.7                                 2019 – 2023
 ```
 
 ---
