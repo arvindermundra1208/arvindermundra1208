@@ -200,22 +200,6 @@ Oracle SQL partitioning and PL/SQL automation reducing transaction latency by **
   </tr>
 </table>
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=arvindermundra1208&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindermundra1208&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
